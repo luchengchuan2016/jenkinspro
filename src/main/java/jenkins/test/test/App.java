@@ -8,8 +8,8 @@ public class App
 {
     public String  print(String a){
         System.out.println( "Hello World!" );
-        //return a;
-        return "c";
+        return a;
+        //return "c";
     }
     public static void main( String[] args )
     {
