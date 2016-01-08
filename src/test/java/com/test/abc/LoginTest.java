@@ -6,8 +6,11 @@
  */
 package com.test.abc;
 
+import org.junit.Test;
+
 import com.test.abc.Login;
 
+import junit.framework.Assert;
 import junit.framework.TestCase;
 
 /**
@@ -17,10 +20,11 @@ import junit.framework.TestCase;
  * 修改历史： <br/>
  * 1.[2016年1月8日下午3:26:22]创建文件 by lcc
  */
-public class LoginTest extends TestCase {
+public class LoginTest   {
 
+        @Test
     public void testL(){
         String a = new Login().L();
-        assertEquals("testApp返回结果期望不同，不是b", a, "b");
+        Assert.assertEquals("testApp返回结果期望不同，不是b", a, "b");
     }
 }

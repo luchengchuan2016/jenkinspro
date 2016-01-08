@@ -6,7 +6,9 @@
  */
 package com.test.abc;
 
-import junit.framework.TestCase;
+import org.junit.Test;
+
+import junit.framework.Assert;
 
 /**
  * 类名：AppTest.java <br/>
@@ -15,9 +17,10 @@ import junit.framework.TestCase;
  * 修改历史： <br/>
  * 1.[2016年1月8日下午7:21:21]创建文件 by lcc
  */
-public class AppTest extends TestCase {
-
+public class AppTest  {
+    @Test
     public void testApp(){
-        assertEquals(true, true);
+        Assert.assertEquals("不一致", false,  true );
+        
     }
 }
