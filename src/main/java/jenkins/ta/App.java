@@ -1,4 +1,4 @@
-package jenkins.test.test;
+package jenkins.ta;
 
 /**
  * Hello world!

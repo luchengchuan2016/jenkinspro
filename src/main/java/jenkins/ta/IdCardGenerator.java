@@ -7,7 +7,7 @@
  * 修改历史： <br/>
  * 1.[2015年12月28日上午11:22:34]创建文件 by lcc
  */
-package jenkins.test.test;
+package jenkins.ta;
 
 
 import java.util.Calendar;
