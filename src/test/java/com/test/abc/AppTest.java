@@ -4,9 +4,10 @@
  * 文件名：AppTest.java <br/>
  * 包：jenkins.test.test <br/>
  */
-package jenkins.ta;
+package com.test.abc;
 
-import jenkins.ta.App;
+import com.test.abc.App;
+
 import junit.framework.TestCase;
 
 /**

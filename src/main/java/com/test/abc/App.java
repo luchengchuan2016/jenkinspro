@@ -1,4 +1,4 @@
-package jenkins.ta;
+package com.test.abc;
 
 /**
  * Hello world!

@@ -4,7 +4,7 @@
  * 文件名：Idesacdf.java <br/>
  * 包：cn.tsgin.www.openca.util <br/>
  */
-package jenkins.ta;
+package com.test.abc;
 
 import java.util.Calendar;
 

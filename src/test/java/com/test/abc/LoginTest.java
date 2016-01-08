@@ -4,9 +4,10 @@
  * 文件名：LoginTest.java <br/>
  * 包：jenkins.test.test <br/>
  */
-package jenkins.ta;
+package com.test.abc;
 
-import jenkins.ta.Login;
+import com.test.abc.Login;
+
 import junit.framework.TestCase;
 
 /**

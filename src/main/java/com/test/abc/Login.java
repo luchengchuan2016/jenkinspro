@@ -4,7 +4,7 @@
  * 文件名：Test2.java <br/>
  * 包：jenkins.test.test <br/>
  */
-package jenkins.ta;
+package com.test.abc;
 
 /**
  * 类名：Test2.java <br/>
